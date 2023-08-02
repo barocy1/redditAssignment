@@ -1,0 +1,42 @@
+body {
+    background-color:black;
+    color: white;
+    font-family:arial;
+}
+
+.navBar {
+    background-color: green;
+    display: flex;
+
+}
+
+.test {
+    border: solid red 2px;
+    width: 75vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+/* .navBar a {
+    d
+} */
+
+a:link {
+    color: red;
+    text-decoration: none;
+  }
+
+
+h1 {
+    text-align: center;
+    filter: drop-shadow(2px 2px 1px #0f6a9e);
+
+} 
+img {
+    margin: auto;
+    display:block;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 2px 1px white
+
+}
